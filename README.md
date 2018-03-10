@@ -10,3 +10,9 @@ function add()
     var a = "hello";
 }
 ```
+```js
+function delete()
+{
+    var name = "delete";
+}
+```
